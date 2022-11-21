@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/strongprime/source/main/source", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Qianyo1/water/main/1", true))()
 DaHoodSettings.Prediction = 0.148357
 getgenv().Aiming.TargetPart = {"Head", "HumanoidRootPart", "LowerTorso"}
 getgenv().Aiming.HitChance = 110
