@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Qianyo1/water/main/1"
 DaHoodSettings.Prediction = 0.148357
 getgenv().Aiming.TargetPart = {"Head", "HumanoidRootPart", "LowerTorso"}
 getgenv().Aiming.HitChance = 110
-getgenv().Aiming.ShowFOV = true
+getgenv().Aiming.ShowFOV = false
 getgenv().Aiming.FOV = 25
 local RunService = game:GetService("RunService")
 RunService.Heartbeat:Connect(function()
